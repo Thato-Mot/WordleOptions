@@ -1,6 +1,6 @@
 # 🧠 WordleSolver
 
-A simple Python-based assistant to help you solve Wordle puzzles by filtering a word list based on known clues: correct letters, present letters, absent letters, and invalid positions.
+A simple Python-based assistant to help me solve Wordle puzzles by filtering a word list based on known clues: correct letters, present letters, absent letters, and invalid positions. (I play Wordle daily and I noticed previous answers do not get repeated... the goal is not to find the word, its to find it in the least amount of tries).
 
 ## 📂 Project Structure
 
